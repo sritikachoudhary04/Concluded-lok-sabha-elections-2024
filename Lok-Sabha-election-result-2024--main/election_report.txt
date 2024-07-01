@@ -1,0 +1,10 @@
+Total Seats: 543
+Winning Party: Bharatiya Janata Party - BJP
+Top 5 Parties by Seats Won: {'Bharatiya Janata Party - BJP': 240.0, 'Indian National Congress - INC': 99.0, 'Samajwadi Party - SP': 37.0, 'All India Trinamool Congress - AITC': 29.0, 'Dravida Munnetra Kazhagam - DMK': 22.0}
+Total Seats Won: 543
+Total Seats Leading: 0
+Party with Most Leading Seats: Bharatiya Janata Party - BJP
+Top 5 Parties by Leading Seats: {'Bharatiya Janata Party - BJP': 0.0, 'Zoram People’s Movement - ZPM': 0.0, 'Jammu & Kashmir National Conference - JKN': 0.0, 'United People’s Party, Liberal - UPPL': 0.0, 'Asom Gana Parishad - AGP': 0.0}
+Winning Party Percentage of Total Seats: 44.19889502762431
+Number of Parties with At Least One Seat: 42
+Total Number of Parties Participated: 42
